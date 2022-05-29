@@ -1,3 +1,3 @@
 # Test
 This is a test.
-Second line added.
+New second line added.
